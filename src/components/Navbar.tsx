@@ -24,10 +24,10 @@ interface RouteProps {
 }
 
 const routeList: RouteProps[] = [
-  {
-    href: "#features",
-    label: "功能",
-  },
+  // {
+  //   href: "#features",
+  //   label: "功能",
+  // },
   // {
   //   href: "#testimonials",
   //   label: "Testimonials",
@@ -55,7 +55,7 @@ export const Navbar = () => {
               className="ml-2 font-bold text-xl flex"
             >
               <LogoIcon />
-              Dinoz
+              Dinox
             </a>
           </NavigationMenuItem>
 

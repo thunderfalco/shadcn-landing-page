@@ -1,7 +1,5 @@
 import { Button } from "./ui/button";
-import { buttonVariants } from "./ui/button";
 import { HeroCards } from "./HeroCards";
-import { GitHubLogoIcon } from "@radix-ui/react-icons";
 
 export const Hero = () => {
   return (
@@ -10,7 +8,7 @@ export const Hero = () => {
         <main className="text-5xl md:text-6xl font-bold">
           <h1 className="inline">
             <span className="inline bg-gradient-to-r from-[#F596D3]  to-[#D247BF] text-transparent bg-clip-text">
-              Dinoz
+              Dinox
             </span>{" "}
             实时
           </h1>{" "}
