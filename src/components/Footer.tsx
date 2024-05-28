@@ -17,7 +17,7 @@ export const Footer = () => {
           </a>
         </div>
         <div className="flex flex-col gap-2">
-          <h3 className="font-bold text-lg">Email</h3>
+          <h3 className="font-bold text-lg">联系方式(邮箱)</h3>
           <div>
             <a
               rel="noreferrer noopener"
